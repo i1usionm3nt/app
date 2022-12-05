@@ -1,0 +1,41 @@
+{
+  "pages": [
+    {
+      "id": "系统数据监控",
+      "isDefault": true
+    },
+    {
+      "id": "数据采集处理",
+      "isDefault": false
+    },
+    {
+      "id": "网络协同解构",
+      "isDefault": false
+    },
+    {
+      "id": "网络组装预测",
+      "isDefault": false
+    },
+    {
+      "id": "系统登录界面",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "clonedFromApplicationId": "62e91adc4003a7259a30a40d",
+  "color": "#FFEBFB",
+  "icon": "bar-graph",
+  "unpublishedAppLayout": {
+    "type": "FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "forkingEnabled": true,
+  "isManualUpdate": false,
+  "deleted": false
+}

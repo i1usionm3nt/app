@@ -1,0 +1,1434 @@
+{
+  "unpublishedPage": {
+    "name": "网络组装预测",
+    "slug": "",
+    "layouts": [
+      {
+        "viewMode": false,
+        "dsl": {
+          "widgetName": "MainContainer",
+          "backgroundColor": "none",
+          "rightColumn": 1224,
+          "snapColumns": 64,
+          "detachFromLayout": true,
+          "widgetId": "0",
+          "topRow": 0,
+          "bottomRow": 1240,
+          "containerStyle": "none",
+          "snapRows": 121,
+          "parentRowSpace": 1,
+          "type": "CANVAS_WIDGET",
+          "canExtend": true,
+          "version": 69,
+          "minHeight": 1220,
+          "parentColumnSpace": 1,
+          "dynamicBindingPathList": [],
+          "leftColumn": 0,
+          "children": [
+            {
+              "boxShadow": "none",
+              "widgetName": "TitleCopyCopyCopyCopy1",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "fontSize"
+                }
+              ],
+              "displayName": "Text",
+              "iconSVG": "/static/media/icon.97c59b52.svg",
+              "topRow": 77,
+              "bottomRow": 81,
+              "parentRowSpace": 10,
+              "type": "TEXT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 16.62109375,
+              "dynamicTriggerPathList": [],
+              "overflow": "NONE",
+              "fontFamily": "Inter",
+              "leftColumn": 49,
+              "dynamicBindingPathList": [],
+              "truncateButtonColor": "#FFC13D",
+              "text": "神经环路适应性",
+              "key": "czyq0gtp0e",
+              "labelTextSize": "0.875rem",
+              "rightColumn": 62,
+              "textAlign": "LEFT",
+              "dynamicHeight": "FIXED",
+              "widgetId": "57scrtrd03",
+              "isVisible": true,
+              "fontStyle": "BOLD",
+              "textColor": "#18181b",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "0px",
+              "maxDynamicHeight": 9000,
+              "fontSize": "1.4rem",
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "TitleCopyCopyCopyCopy",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "fontSize"
+                }
+              ],
+              "displayName": "Text",
+              "iconSVG": "/static/media/icon.97c59b52.svg",
+              "topRow": 38,
+              "bottomRow": 42,
+              "parentRowSpace": 10,
+              "type": "TEXT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 16.62109375,
+              "dynamicTriggerPathList": [],
+              "overflow": "NONE",
+              "fontFamily": "Inter",
+              "leftColumn": 49,
+              "dynamicBindingPathList": [],
+              "truncateButtonColor": "#FFC13D",
+              "text": "神经环路适应性",
+              "key": "czyq0gtp0e",
+              "labelTextSize": "0.875rem",
+              "rightColumn": 62,
+              "textAlign": "LEFT",
+              "dynamicHeight": "FIXED",
+              "widgetId": "7rugs81m71",
+              "isVisible": true,
+              "fontStyle": "BOLD",
+              "textColor": "#18181b",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "0px",
+              "maxDynamicHeight": 9000,
+              "fontSize": "1.4rem",
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "borderColor": "#E0DEDE",
+              "isVisibleDownload": false,
+              "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
+              "topRow": 42,
+              "isSortable": false,
+              "type": "TABLE_WIDGET_V2",
+              "inlineEditingSaveOption": "ROW_LEVEL",
+              "animateLoading": true,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                },
+                {
+                  "key": "boxShadow"
+                },
+                {
+                  "key": "childStylesheet.button.buttonColor"
+                },
+                {
+                  "key": "childStylesheet.button.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.menuButton.menuColor"
+                },
+                {
+                  "key": "childStylesheet.menuButton.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.iconButton.buttonColor"
+                },
+                {
+                  "key": "childStylesheet.iconButton.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.editActions.saveButtonColor"
+                },
+                {
+                  "key": "childStylesheet.editActions.saveBorderRadius"
+                },
+                {
+                  "key": "childStylesheet.editActions.discardButtonColor"
+                },
+                {
+                  "key": "childStylesheet.editActions.discardBorderRadius"
+                },
+                {
+                  "key": "primaryColumns.xn__rpr79v.computedValue"
+                },
+                {
+                  "key": "primaryColumns.xn__exty8as60bjlf9qh2pyhkd.computedValue"
+                }
+              ],
+              "leftColumn": 49,
+              "delimiter": ",",
+              "defaultSelectedRowIndex": 0,
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisibleFilters": false,
+              "isVisible": true,
+              "fontStyle": "",
+              "enableClientSideSearch": true,
+              "version": 1,
+              "totalRecordsCount": 0,
+              "isLoading": false,
+              "childStylesheet": {
+                "button": {
+                  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "menuButton": {
+                  "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "iconButton": {
+                  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "editActions": {
+                  "saveButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "saveBorderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "discardButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "discardBorderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+                }
+              },
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "primaryColumnId": "step",
+              "defaultSelectedRowIndices": [
+                0
+              ],
+              "widgetName": "Table1Copy",
+              "defaultPageSize": 0,
+              "columnOrder": [
+                "xn__rpr79v",
+                "xn__exty8as60bjlf9qh2pyhkd"
+              ],
+              "dynamicPropertyPathList": [],
+              "compactMode": "SHORT",
+              "displayName": "Table",
+              "bottomRow": 77,
+              "columnWidthMap": {
+                "task": 245,
+                "step": 84,
+                "status": 75,
+                "xn__rpr79v": 124
+              },
+              "parentRowSpace": 10,
+              "hideCard": false,
+              "parentColumnSpace": 16.9375,
+              "dynamicTriggerPathList": [],
+              "borderWidth": "1",
+              "primaryColumns": {
+                "xn__rpr79v": {
+                  "allowCellWrapping": false,
+                  "index": 2,
+                  "width": 150,
+                  "originalId": "序号",
+                  "id": "xn__rpr79v",
+                  "alias": "序号",
+                  "horizontalAlignment": "LEFT",
+                  "verticalAlignment": "CENTER",
+                  "columnType": "text",
+                  "textSize": "0.875rem",
+                  "fontStyle": "",
+                  "enableFilter": true,
+                  "enableSort": true,
+                  "isVisible": true,
+                  "isDisabled": false,
+                  "isCellEditable": false,
+                  "isEditable": false,
+                  "isCellVisible": true,
+                  "isDerived": false,
+                  "label": "序号",
+                  "isSaveVisible": true,
+                  "isDiscardVisible": true,
+                  "computedValue": "{{Table1Copy.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"序号\"]))}}",
+                  "validation": {}
+                },
+                "xn__exty8as60bjlf9qh2pyhkd": {
+                  "allowCellWrapping": false,
+                  "index": 3,
+                  "width": 150,
+                  "originalId": "神经环路适应性",
+                  "id": "xn__exty8as60bjlf9qh2pyhkd",
+                  "alias": "神经环路适应性",
+                  "horizontalAlignment": "LEFT",
+                  "verticalAlignment": "CENTER",
+                  "columnType": "text",
+                  "textSize": "0.875rem",
+                  "fontStyle": "",
+                  "enableFilter": true,
+                  "enableSort": true,
+                  "isVisible": true,
+                  "isDisabled": false,
+                  "isCellEditable": false,
+                  "isEditable": false,
+                  "isCellVisible": true,
+                  "isDerived": false,
+                  "label": "神经环路适应性",
+                  "isSaveVisible": true,
+                  "isDiscardVisible": true,
+                  "computedValue": "{{Table1Copy.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"神经环路适应性\"]))}}",
+                  "validation": {}
+                }
+              },
+              "key": "0x68sn7u00",
+              "isDeprecated": false,
+              "rightColumn": 62,
+              "textSize": "0.875rem",
+              "widgetId": "w6ttgr9u34",
+              "tableData": "[\n  {\n    \"序号\": \"NC22.03\",\n    \"神经环路适应性\": \"0.5433\"\n  },\n  {\n    \"序号\": \"NC22.17\",\n    \"神经环路适应性\": \"0.5886\"\n  },\n  {\n    \"序号\": \"NC22.29\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.29\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.36\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.45\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.48\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.74\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.77\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.91\",\n    \"神经环路适应性\": \"0.7864\"\n  }\n]",
+              "label": "Data",
+              "searchKey": "",
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "horizontalAlignment": "LEFT",
+              "isVisibleSearch": false,
+              "isVisiblePagination": false,
+              "verticalAlignment": "CENTER"
+            },
+            {
+              "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "setAdaptiveYMin": true,
+              "widgetName": "Chart1CopyCopy",
+              "allowScroll": false,
+              "dynamicPropertyPathList": [],
+              "displayName": "Chart",
+              "iconSVG": "/static/media/icon.6adbe31ed817fc4bfd66f9f0a6fc105c.svg",
+              "searchTags": [
+                "graph",
+                "visuals",
+                "visualisations"
+              ],
+              "topRow": 42,
+              "bottomRow": 77,
+              "parentRowSpace": 10,
+              "type": "CHART_WIDGET",
+              "hideCard": false,
+              "chartData": {
+                "3g1dkvy96w": {
+                  "seriesName": "Real",
+                  "data": "[\n{\n\"x\": \"1\",\n\"y\": \"202.338\"\n},\n\n{\n\"x\": \"2\",\n\"y\": \"219.139\"\n},\n\n{\n\"x\": \"3\",\n\"y\": \"197.029\"\n},\n\n{\n\"x\": \"4\",\n\"y\": \"215.614\"\n},\n\n{\n\"x\": \"5\",\n\"y\": \"226.053\"\n},\n\n{\n\"x\": \"6\",\n\"y\": \"196.851\"\n},\n\n{\n\"x\": \"7\",\n\"y\": \"212.021\"\n},\n\n{\n\"x\": \"8\",\n\"y\": \"176.317\"\n},\n\n{\n\"x\": \"9\",\n\"y\": \"195.875\"\n},\n\n{\n\"x\": \"10\",\n\"y\": \"215.925\"\n},\n\n{\n\"x\": \"11\",\n\"y\": \"211.189\"\n},\n\n{\n\"x\": \"12\",\n\"y\": \"197.368\"\n},\n\n{\n\"x\": \"13\",\n\"y\": \"178.898\"\n},\n\n{\n\"x\": \"14\",\n\"y\": \"201.726\"\n},\n\n{\n\"x\": \"15\",\n\"y\": \"211.456\"\n},\n\n{\n\"x\": \"16\",\n\"y\": \"190.226\"\n},\n\n{\n\"x\": \"17\",\n\"y\": \"201.829\"\n},\n\n{\n\"x\": \"18\",\n\"y\": \"203.482\"\n},\n\n{\n\"x\": \"19\",\n\"y\": \"187.302\"\n},\n\n{\n\"x\": \"20\",\n\"y\": \"202.231\"\n},\n\n{\n\"x\": \"21\",\n\"y\": \"203.309\"\n},\n\n{\n\"x\": \"22\",\n\"y\": \"182.927\"\n},\n\n{\n\"x\": \"23\",\n\"y\": \"187.293\"\n},\n\n{\n\"x\": \"24\",\n\"y\": \"226.748\"\n},\n\n{\n\"x\": \"25\",\n\"y\": \"211.142\"\n},\n\n{\n\"x\": \"26\",\n\"y\": \"208.131\"\n},\n\n{\n\"x\": \"27\",\n\"y\": \"193.384\"\n},\n\n{\n\"x\": \"28\",\n\"y\": \"176.363\"\n},\n\n{\n\"x\": \"29\",\n\"y\": \"195.920\"\n},\n\n{\n\"x\": \"30\",\n\"y\": \"187.530\"\n},\n\n{\n\"x\": \"31\",\n\"y\": \"210.527\"\n},\n\n{\n\"x\": \"32\",\n\"y\": \"191.036\"\n},\n\n{\n\"x\": \"33\",\n\"y\": \"186.370\"\n},\n\n{\n\"x\": \"34\",\n\"y\": \"179.084\"\n},\n\n{\n\"x\": \"35\",\n\"y\": \"197.899\"\n},\n\n{\n\"x\": \"36\",\n\"y\": \"220.949\"\n},\n\n{\n\"x\": \"37\",\n\"y\": \"209.891\"\n},\n\n{\n\"x\": \"38\",\n\"y\": \"185.343\"\n},\n\n{\n\"x\": \"39\",\n\"y\": \"194.412\"\n},\n\n{\n\"x\": \"40\",\n\"y\": \"221.500\"\n}\n]"
+                },
+                "tmcuo0rn0c": {
+                  "seriesName": "Forecast",
+                  "data": "[\n{\n\"x\": \"1\",\n\"y\": \"199.215\"\n},\n\n{\n\"x\": \"2\",\n\"y\": \"209.577\"\n},\n\n{\n\"x\": \"3\",\n\"y\": \"196.808\"\n},\n\n{\n\"x\": \"4\",\n\"y\": \"209.762\"\n},\n\n{\n\"x\": \"5\",\n\"y\": \"213.473\"\n},\n\n{\n\"x\": \"6\",\n\"y\": \"181.922\"\n},\n\n{\n\"x\": \"7\",\n\"y\": \"202.122\"\n},\n\n{\n\"x\": \"8\",\n\"y\": \"214.073\"\n},\n\n{\n\"x\": \"9\",\n\"y\": \"199.886\"\n},\n\n{\n\"x\": \"10\",\n\"y\": \"204.160\"\n},\n\n{\n\"x\": \"11\",\n\"y\": \"205.553\"\n},\n\n{\n\"x\": \"12\",\n\"y\": \"200.660\"\n},\n\n{\n\"x\": \"13\",\n\"y\": \"193.423\"\n},\n\n{\n\"x\": \"14\",\n\"y\": \"198.640\"\n},\n\n{\n\"x\": \"15\",\n\"y\": \"201.013\"\n},\n\n{\n\"x\": \"16\",\n\"y\": \"184.064\"\n},\n\n{\n\"x\": \"17\",\n\"y\": \"195.612\"\n},\n\n{\n\"x\": \"18\",\n\"y\": \"208.765\"\n},\n\n{\n\"x\": \"19\",\n\"y\": \"198.947\"\n},\n\n{\n\"x\": \"20\",\n\"y\": \"191.500\"\n},\n\n{\n\"x\": \"21\",\n\"y\": \"206.367\"\n},\n\n{\n\"x\": \"22\",\n\"y\": \"188.815\"\n},\n\n{\n\"x\": \"23\",\n\"y\": \"202.042\"\n},\n\n{\n\"x\": \"24\",\n\"y\": \"222.192\"\n},\n\n{\n\"x\": \"25\",\n\"y\": \"198.358\"\n},\n\n{\n\"x\": \"26\",\n\"y\": \"220.262\"\n},\n\n{\n\"x\": \"27\",\n\"y\": \"201.600\"\n},\n\n{\n\"x\": \"28\",\n\"y\": \"206.859\"\n},\n\n{\n\"x\": \"29\",\n\"y\": \"191.553\"\n},\n\n{\n\"x\": \"30\",\n\"y\": \"201.521\"\n},\n\n{\n\"x\": \"31\",\n\"y\": \"218.700\"\n},\n\n{\n\"x\": \"32\",\n\"y\": \"190.261\"\n},\n\n{\n\"x\": \"33\",\n\"y\": \"177.627\"\n},\n\n{\n\"x\": \"34\",\n\"y\": \"223.721\"\n},\n\n{\n\"x\": \"35\",\n\"y\": \"213.510\"\n},\n\n{\n\"x\": \"36\",\n\"y\": \"192.627\"\n},\n\n{\n\"x\": \"37\",\n\"y\": \"207.965\"\n},\n\n{\n\"x\": \"38\",\n\"y\": \"193.723\"\n},\n\n{\n\"x\": \"39\",\n\"y\": \"201.743\"\n},\n\n{\n\"x\": \"40\",\n\"y\": \"213.261\"\n}\n]"
+                }
+              },
+              "animateLoading": true,
+              "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+              "parentColumnSpace": 16.9375,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 2,
+              "dynamicBindingPathList": [
+                {
+                  "key": "borderRadius"
+                },
+                {
+                  "key": "boxShadow"
+                },
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "fontFamily"
+                }
+              ],
+              "customFusionChartConfig": {
+                "type": "column2d",
+                "dataSource": {
+                  "data": [
+                    {
+                      "label": "Product1",
+                      "value": 20000
+                    },
+                    {
+                      "label": "Product2",
+                      "value": 22000
+                    },
+                    {
+                      "label": "Product3",
+                      "value": 32000
+                    }
+                  ],
+                  "chart": {
+                    "caption": "Sales Report",
+                    "xAxisName": "Product Line",
+                    "yAxisName": "Revenue($)",
+                    "theme": "fusion",
+                    "alignCaptionWithCanvas": 1,
+                    "captionFontSize": "24",
+                    "captionAlignment": "center",
+                    "captionPadding": "20",
+                    "captionFontColor": "#231F20",
+                    "legendIconSides": "4",
+                    "legendIconBgAlpha": "100",
+                    "legendIconAlpha": "100",
+                    "legendPosition": "top",
+                    "canvasPadding": "0",
+                    "chartLeftMargin": "20",
+                    "chartTopMargin": "10",
+                    "chartRightMargin": "40",
+                    "chartBottomMargin": "10",
+                    "xAxisNameFontSize": "14",
+                    "labelFontSize": "12",
+                    "labelFontColor": "#716E6E",
+                    "xAxisNameFontColor": "#716E6E",
+                    "yAxisNameFontSize": "14",
+                    "yAxisValueFontSize": "12",
+                    "yAxisValueFontColor": "#716E6E",
+                    "yAxisNameFontColor": "#716E6E"
+                  }
+                }
+              },
+              "key": "nkanw22ekd",
+              "isDeprecated": false,
+              "rightColumn": 49,
+              "widgetId": "b8xu4n4c49",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "labelOrientation": "slant",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "yAxisName": "CycleTime(h)",
+              "originalTopRow": 43,
+              "chartName": "",
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "xAxisName": "Release No.",
+              "originalBottomRow": 78,
+              "chartType": "LINE_CHART"
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "TitleCopyCopyCopy",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "fontSize"
+                }
+              ],
+              "displayName": "Text",
+              "iconSVG": "/static/media/icon.97c59b52.svg",
+              "topRow": 77,
+              "bottomRow": 81,
+              "parentRowSpace": 10,
+              "type": "TEXT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 16.62109375,
+              "dynamicTriggerPathList": [],
+              "overflow": "NONE",
+              "fontFamily": "Inter",
+              "leftColumn": 2,
+              "dynamicBindingPathList": [],
+              "truncateButtonColor": "#FFC13D",
+              "text": "推荐环路实时预测结果",
+              "key": "czyq0gtp0e",
+              "labelTextSize": "0.875rem",
+              "rightColumn": 16,
+              "textAlign": "LEFT",
+              "dynamicHeight": "FIXED",
+              "widgetId": "bjmxzxkb9s",
+              "isVisible": true,
+              "fontStyle": "BOLD",
+              "textColor": "#18181b",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "0px",
+              "maxDynamicHeight": 9000,
+              "fontSize": "1.4rem",
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "TitleCopyCopy",
+              "dynamicPropertyPathList": [
+                {
+                  "key": "fontSize"
+                }
+              ],
+              "displayName": "Text",
+              "iconSVG": "/static/media/icon.97c59b52.svg",
+              "topRow": 38,
+              "bottomRow": 42,
+              "parentRowSpace": 10,
+              "type": "TEXT_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 16.62109375,
+              "dynamicTriggerPathList": [],
+              "overflow": "NONE",
+              "fontFamily": "Inter",
+              "leftColumn": 2,
+              "dynamicBindingPathList": [],
+              "truncateButtonColor": "#FFC13D",
+              "text": "选择环路实时预测结果",
+              "key": "czyq0gtp0e",
+              "labelTextSize": "0.875rem",
+              "rightColumn": 16,
+              "textAlign": "LEFT",
+              "dynamicHeight": "FIXED",
+              "widgetId": "m9ukv0rma0",
+              "isVisible": true,
+              "fontStyle": "BOLD",
+              "textColor": "#18181b",
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "0px",
+              "maxDynamicHeight": 9000,
+              "fontSize": "1.4rem",
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "setAdaptiveYMin": true,
+              "widgetName": "Chart1Copy",
+              "allowScroll": false,
+              "dynamicPropertyPathList": [],
+              "displayName": "Chart",
+              "iconSVG": "/static/media/icon.6adbe31ed817fc4bfd66f9f0a6fc105c.svg",
+              "searchTags": [
+                "graph",
+                "visuals",
+                "visualisations"
+              ],
+              "topRow": 81,
+              "bottomRow": 116,
+              "parentRowSpace": 10,
+              "type": "CHART_WIDGET",
+              "hideCard": false,
+              "chartData": {
+                "3g1dkvy96w": {
+                  "seriesName": "Real",
+                  "data": "[\n{\n\"x\": \"1\",\n\"y\": \"202.338\"\n},\n\n{\n\"x\": \"2\",\n\"y\": \"219.139\"\n},\n\n{\n\"x\": \"3\",\n\"y\": \"197.029\"\n},\n\n{\n\"x\": \"4\",\n\"y\": \"215.614\"\n},\n\n{\n\"x\": \"5\",\n\"y\": \"226.053\"\n},\n\n{\n\"x\": \"6\",\n\"y\": \"196.851\"\n},\n\n{\n\"x\": \"7\",\n\"y\": \"212.021\"\n},\n\n{\n\"x\": \"8\",\n\"y\": \"176.317\"\n},\n\n{\n\"x\": \"9\",\n\"y\": \"195.875\"\n},\n\n{\n\"x\": \"10\",\n\"y\": \"215.925\"\n},\n\n{\n\"x\": \"11\",\n\"y\": \"211.189\"\n},\n\n{\n\"x\": \"12\",\n\"y\": \"197.368\"\n},\n\n{\n\"x\": \"13\",\n\"y\": \"178.898\"\n},\n\n{\n\"x\": \"14\",\n\"y\": \"201.726\"\n},\n\n{\n\"x\": \"15\",\n\"y\": \"211.456\"\n},\n\n{\n\"x\": \"16\",\n\"y\": \"190.226\"\n},\n\n{\n\"x\": \"17\",\n\"y\": \"201.829\"\n},\n\n{\n\"x\": \"18\",\n\"y\": \"203.482\"\n},\n\n{\n\"x\": \"19\",\n\"y\": \"187.302\"\n},\n\n{\n\"x\": \"20\",\n\"y\": \"202.231\"\n},\n\n{\n\"x\": \"21\",\n\"y\": \"203.309\"\n},\n\n{\n\"x\": \"22\",\n\"y\": \"182.927\"\n},\n\n{\n\"x\": \"23\",\n\"y\": \"187.293\"\n},\n\n{\n\"x\": \"24\",\n\"y\": \"226.748\"\n},\n\n{\n\"x\": \"25\",\n\"y\": \"211.142\"\n},\n\n{\n\"x\": \"26\",\n\"y\": \"208.131\"\n},\n\n{\n\"x\": \"27\",\n\"y\": \"193.384\"\n},\n\n{\n\"x\": \"28\",\n\"y\": \"176.363\"\n},\n\n{\n\"x\": \"29\",\n\"y\": \"195.920\"\n},\n\n{\n\"x\": \"30\",\n\"y\": \"187.530\"\n},\n\n{\n\"x\": \"31\",\n\"y\": \"210.527\"\n},\n\n{\n\"x\": \"32\",\n\"y\": \"191.036\"\n},\n\n{\n\"x\": \"33\",\n\"y\": \"186.370\"\n},\n\n{\n\"x\": \"34\",\n\"y\": \"179.084\"\n},\n\n{\n\"x\": \"35\",\n\"y\": \"197.899\"\n},\n\n{\n\"x\": \"36\",\n\"y\": \"220.949\"\n},\n\n{\n\"x\": \"37\",\n\"y\": \"209.891\"\n},\n\n{\n\"x\": \"38\",\n\"y\": \"185.343\"\n},\n\n{\n\"x\": \"39\",\n\"y\": \"194.412\"\n},\n\n{\n\"x\": \"40\",\n\"y\": \"221.500\"\n}\n]"
+                },
+                "tmcuo0rn0c": {
+                  "seriesName": "Forecast",
+                  "data": "[\n{\n\"x\": \"1\",\n\"y\": \"202.292\"\n},\n\n{\n\"x\": \"2\",\n\"y\": \"212.243\"\n},\n\n{\n\"x\": \"3\",\n\"y\": \"195.710\"\n},\n\n{\n\"x\": \"4\",\n\"y\": \"216.652\"\n},\n\n{\n\"x\": \"5\",\n\"y\": \"212.372\"\n},\n\n{\n\"x\": \"6\",\n\"y\": \"191.929\"\n},\n\n{\n\"x\": \"7\",\n\"y\": \"205.571\"\n},\n\n{\n\"x\": \"8\",\n\"y\": \"204.794\"\n},\n\n{\n\"x\": \"9\",\n\"y\": \"202.305\"\n},\n\n{\n\"x\": \"10\",\n\"y\": \"210.145\"\n},\n\n{\n\"x\": \"11\",\n\"y\": \"206.435\"\n},\n\n{\n\"x\": \"12\",\n\"y\": \"199.478\"\n},\n\n{\n\"x\": \"13\",\n\"y\": \"183.874\"\n},\n\n{\n\"x\": \"14\",\n\"y\": \"206.471\"\n},\n\n{\n\"x\": \"15\",\n\"y\": \"197.738\"\n},\n\n{\n\"x\": \"16\",\n\"y\": \"190.569\"\n},\n\n{\n\"x\": \"17\",\n\"y\": \"204.283\"\n},\n\n{\n\"x\": \"18\",\n\"y\": \"208.783\"\n},\n\n{\n\"x\": \"19\",\n\"y\": \"194.705\"\n},\n\n{\n\"x\": \"20\",\n\"y\": \"201.103\"\n},\n\n{\n\"x\": \"21\",\n\"y\": \"208.229\"\n},\n\n{\n\"x\": \"22\",\n\"y\": \"192.825\"\n},\n\n{\n\"x\": \"23\",\n\"y\": \"198.471\"\n},\n\n{\n\"x\": \"24\",\n\"y\": \"215.110\"\n},\n\n{\n\"x\": \"25\",\n\"y\": \"208.173\"\n},\n\n{\n\"x\": \"26\",\n\"y\": \"214.380\"\n},\n\n{\n\"x\": \"27\",\n\"y\": \"196.919\"\n},\n\n{\n\"x\": \"28\",\n\"y\": \"197.203\"\n},\n\n{\n\"x\": \"29\",\n\"y\": \"194.712\"\n},\n\n{\n\"x\": \"30\",\n\"y\": \"198.133\"\n},\n\n{\n\"x\": \"31\",\n\"y\": \"212.622\"\n},\n\n{\n\"x\": \"32\",\n\"y\": \"193.672\"\n},\n\n{\n\"x\": \"33\",\n\"y\": \"181.754\"\n},\n\n{\n\"x\": \"34\",\n\"y\": \"217.526\"\n},\n\n{\n\"x\": \"35\",\n\"y\": \"208.834\"\n},\n\n{\n\"x\": \"36\",\n\"y\": \"197.154\"\n},\n\n{\n\"x\": \"37\",\n\"y\": \"208.721\"\n},\n\n{\n\"x\": \"38\",\n\"y\": \"187.345\"\n},\n\n{\n\"x\": \"39\",\n\"y\": \"206.010\"\n},\n\n{\n\"x\": \"40\",\n\"y\": \"216.493\"\n}\n]"
+                }
+              },
+              "animateLoading": true,
+              "fontFamily": "{{appsmith.theme.fontFamily.appFont}}",
+              "parentColumnSpace": 16.9375,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 2,
+              "dynamicBindingPathList": [
+                {
+                  "key": "borderRadius"
+                },
+                {
+                  "key": "boxShadow"
+                },
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "fontFamily"
+                }
+              ],
+              "customFusionChartConfig": "{\n  \"type\": \"line\",\n  \"dataSource\": {\n    \"dataset\": [\n        {\n            \"seriesname\": \"harrysfoodmart.com\",\n            \"data\": \"978|976|955|981|992|964|973|949|985|962|977|955|988|959|985|965|991|985|966|989|960|944|976|980|940|941|945|952|973|946|951|983|942|964|937|942|963|971|969|967|934|935|956|974|930|936|935|973|979|990|994|992|994|984|991|986|963|985|1006|965|958|976|993|974|995|989|966|965|1011|995|1007|978|985|1012|997|985|1004|987|986|981|991|982|992|983|1018|994|976|989|1022|989|1002|983|1015|1006|1005|1003|1017|1014|995|1007|1001|1019|1012|1005|1027|1011|1013|1035|1010|1011|1011|1036|1041|1005|1005|997|1012|1032|1025|1020|998|1018|1000|1009|1005|1004|1042|1047|1021|1032|1019|1038|1050|1037|1019|1018|1035|1055|1028|1049|1013|1028|1023|1054|1041|1051|1069|1051|1072|1049|1054|1035|1072|1042|1048|1083|1054|1048|1065|1046|1055|1056|1085|1046|1048|1048|1068|1089|1074|1078|1046|1052|1082|1052|1067|1058|1051|1052|1082|1060|1076|1077|1059|1070|1082|1093|1100|1089|1079|1075|1087|1089|1088|1106|1107|1067|1076|1101|1094|1078|1097|1094|1083|1066|1079|1111|1100|1085|1091|1095|1081|1091|1077|1095|1107|1083|1116|1118|1101|1111|1096|1077|1086|1117|1087|1105|1107|1094|1112|1101|1084|1094|1125|1099|1108|1084|1099|1120|1122|1092|1120|1121|1094|1114|1099|1129|1095|1125|1127|1121|1129|1110|1097|1136|1110|1098|1131|1125|1144|1104|1117|1105|1105|1145|1102|1143|1115|1147|1149|1129|1108|1109|1130|1153|1121|1127|1133|1120|1155|1120|1147|1118|1117|1145|1152|1145|1130|1157|1135|1115|1156|1163|1131|1123|1137|1151|1160|1152|1166|1144|1137|1124|1151|1129|1133|1143|1139|1171|1135|1132|1174|1170|1163|1175|1152|1142|1160|1148|1173|1158|1160|1151|1142|1168|1153|1143|1157|1142|1172|1186|1176|1185|1175|1178|1184|1166|1148|1166|1186|1187|1180|1179|1161|1174|1155|1172|1173|1179|1149|1170|1175|1162|1151|1152|1163|1155|1197|1174|1199|1180|1160|1174|1159|1168|1160\"\n        },\n        {\n            \"seriesname\": \"harrysfashion.com\",\n            \"data\": \"1053|1057|1084|1082|1098|1055|1068|1067|1074|1056|1067|1078|1079|1084|1041|1052|1066|1080|1049|1051|1049|1044|1083|1053|1038|1077|1046|1067|1053|1033|1047|1055|1031|1074|1031|1041|1071|1057|1035|1070|1050|1069|1054|1049|1022|1044|1049|1058|1064|1088|1093|1103|1085|1072|1104|1106|1078|1061|1078|1105|1105|1062|1076|1074|1114|1069|1091|1086|1094|1072|1079|1088|1082|1075|1110|1120|1108|1102|1090|1088|1092|1102|1110|1111|1085|1113|1110|1116|1095|1105|1105|1122|1133|1132|1093|1097|1120|1105|1135|1106|1108|1135|1098|1136|1122|1113|1113|1145|1103|1127|1104|1126|1147|1120|1119|1120|1132|1107|1149|1147|1149|1141|1145|1152|1117|1144|1157|1134|1157|1120|1125|1153|1141|1132|1158|1134|1166|1167|1170|1163|1139|1171|1145|1156|1158|1154|1196|1196|1169|1174|1174|1195|1161|1201|1208|1188|1182|1188|1162|1174|1174|1211|1189|1211|1172|1211|1179|1199|1216|1184|1209|1181|1186|1174|1185|1220|1206|1190|1206|1201|1190|1209|1208|1189|1195|1188|1193|1206|1214|1205|1215|1200|1194|1210|1205|1236|1226|1208|1228|1235|1197|1197|1198|1224|1220|1210|1226|1244|1228|1241|1237|1201|1208|1238|1213|1222|1213|1249|1222|1221|1230|1223|1214|1251|1234|1220|1240|1213|1252|1224|1222|1234|1262|1255|1225|1226|1242|1240|1250|1265|1235|1228|1261|1221|1230|1235|1260|1273|1253|1268|1258|1233|1258|1248|1230|1270|1246|1242|1246|1253|1253|1257|1253|1266|1248|1247|1257|1245|1281|1271|1272|1248|1292|1251|1253|1257|1259|1288|1252|1297|1290|1268|1291|1258|1263|1254|1302|1279|1272|1271|1281|1261|1263|1289|1294|1272|1296|1264|1282|1268|1296|1280|1281|1277|1277|1292|1266|1310|1288|1312|1308|1300|1289|1273|1282|1300|1322|1301|1314|1296|1305|1305|1327|1323|1295|1314|1298|1312|1330|1293|1309|1286|1309|1332|1300|1295|1325|1322|1305|1323|1300|1308|1299|1324|1338|1313|1329|1331|1299|1329|1344|1335|1342|1307|1314|1326|1331|1328|1328|1311|1352|1328|1309|1311|1312\"\n        }\n    ],\n    \"chart\": {\n      \"caption\": \"Sales Report\",\n      \"xAxisName\": \"Product Line\",\n      \"yAxisName\": \"Revenue($)\",\n      \"theme\": \"fusion\",\n      \"alignCaptionWithCanvas\": 1,\n      \"captionFontSize\": \"24\",\n      \"captionAlignment\": \"center\",\n      \"captionPadding\": \"20\",\n      \"captionFontColor\": \"#BE0004\",\n      \"legendIconSides\": \"4\",\n      \"legendIconBgAlpha\": \"100\",\n      \"legendIconAlpha\": \"100\",\n      \"legendPosition\": \"top\",\n      \"canvasPadding\": \"0\",\n      \"chartLeftMargin\": \"20\",\n      \"chartTopMargin\": \"10\",\n      \"chartRightMargin\": \"40\",\n      \"chartBottomMargin\": \"10\",\n      \"xAxisNameFontSize\": \"14\",\n      \"labelFontSize\": \"12\",\n      \"labelFontColor\": \"#716E6E\",\n      \"xAxisNameFontColor\": \"#716E6E\",\n      \"yAxisNameFontSize\": \"14\",\n      \"yAxisValueFontSize\": \"12\",\n      \"yAxisValueFontColor\": \"#BE0004\",\n      \"yAxisNameFontColor\": \"#BE0004\"\n    }\n  }\n}",
+              "key": "nkanw22ekd",
+              "isDeprecated": false,
+              "rightColumn": 49,
+              "widgetId": "ysg973rgq8",
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "labelOrientation": "slant",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "yAxisName": "CycleTime(h)",
+              "originalTopRow": 43,
+              "chartName": "",
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "xAxisName": "Release No.",
+              "originalBottomRow": 78,
+              "chartType": "LINE_CHART"
+            },
+            {
+              "boxShadow": "none",
+              "widgetName": "Container1",
+              "borderColor": "#E0DEDE",
+              "isCanvas": true,
+              "displayName": "Container",
+              "iconSVG": "/static/media/icon.1977dca3370505e2db3a8e44cfd54907.svg",
+              "searchTags": [
+                "div",
+                "parent",
+                "group"
+              ],
+              "topRow": 0,
+              "bottomRow": 38,
+              "parentRowSpace": 10,
+              "type": "CONTAINER_WIDGET",
+              "hideCard": false,
+              "shouldScrollContents": false,
+              "animateLoading": true,
+              "parentColumnSpace": 17.8125,
+              "dynamicTriggerPathList": [],
+              "leftColumn": 2,
+              "dynamicBindingPathList": [
+                {
+                  "key": "borderRadius"
+                }
+              ],
+              "children": [
+                {
+                  "boxShadow": "none",
+                  "widgetName": "Canvas113",
+                  "displayName": "Canvas",
+                  "topRow": 0,
+                  "bottomRow": 390,
+                  "parentRowSpace": 1,
+                  "type": "CANVAS_WIDGET",
+                  "canExtend": false,
+                  "hideCard": true,
+                  "minHeight": 390,
+                  "parentColumnSpace": 1,
+                  "leftColumn": 0,
+                  "dynamicBindingPathList": [
+                    {
+                      "key": "borderRadius"
+                    },
+                    {
+                      "key": "accentColor"
+                    }
+                  ],
+                  "children": [
+                    {
+                      "resetFormOnClick": false,
+                      "boxShadow": "none",
+                      "widgetName": "Button1Copy",
+                      "buttonColor": "#7f1d1d",
+                      "displayName": "Button",
+                      "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
+                      "searchTags": [
+                        "click",
+                        "submit"
+                      ],
+                      "topRow": 32,
+                      "bottomRow": 36,
+                      "parentRowSpace": 10,
+                      "type": "BUTTON_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 16.9375,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 48,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "text": "重新选择",
+                      "isDisabled": false,
+                      "key": "kpf76b3qsm",
+                      "isDeprecated": false,
+                      "rightColumn": 55,
+                      "isDefaultClickDisabled": true,
+                      "widgetId": "ljapokt856",
+                      "isVisible": true,
+                      "recaptchaType": "V3",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "disabledWhenInvalid": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "buttonVariant": "PRIMARY",
+                      "iconAlign": "left",
+                      "placement": "CENTER"
+                    },
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "Title",
+                      "dynamicPropertyPathList": [
+                        {
+                          "key": "fontSize"
+                        }
+                      ],
+                      "displayName": "Text",
+                      "iconSVG": "/static/media/icon.97c59b52.svg",
+                      "topRow": 2,
+                      "bottomRow": 6,
+                      "parentRowSpace": 10,
+                      "type": "TEXT_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 16.62109375,
+                      "dynamicTriggerPathList": [],
+                      "overflow": "NONE",
+                      "fontFamily": "Inter",
+                      "leftColumn": 2,
+                      "dynamicBindingPathList": [],
+                      "truncateButtonColor": "#FFC13D",
+                      "text": "数据智能驱动的晶圆制造工期自适应预测原型系统",
+                      "key": "czyq0gtp0e",
+                      "labelTextSize": "0.875rem",
+                      "rightColumn": 44,
+                      "textAlign": "LEFT",
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "z2lq2cnq88",
+                      "isVisible": true,
+                      "fontStyle": "BOLD",
+                      "textColor": "#FFFFFF",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "0px",
+                      "maxDynamicHeight": 9000,
+                      "fontSize": "1.79rem",
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "widgetName": "Text113",
+                      "displayName": "Text",
+                      "iconSVG": "/static/media/icon.97c59b523e6f70ba6f40a10fc2c7c5b5.svg",
+                      "searchTags": [
+                        "typography",
+                        "paragraph",
+                        "label"
+                      ],
+                      "topRow": 7,
+                      "bottomRow": 12,
+                      "parentRowSpace": 10,
+                      "type": "TEXT_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "overflow": "SCROLL",
+                      "fontFamily": "Nunito Sans",
+                      "parentColumnSpace": 19.5,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 2,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "shouldTruncate": false,
+                      "truncateButtonColor": "#FFC13D",
+                      "text": "ADAPTIVE FORECASTING SYSTEM OF SEMICONDUCTOR WAFER MANUFACTURING CYCLE TIME DRIVEN BY DATA INTELLIGENCE ",
+                      "key": "nf5ngvo9vw",
+                      "isDeprecated": false,
+                      "rightColumn": 44,
+                      "textAlign": "LEFT",
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "fssbg9nj21",
+                      "isVisible": true,
+                      "fontStyle": "",
+                      "textColor": "#9BA0B0",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "maxDynamicHeight": 9000,
+                      "fontSize": "1rem",
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "Image1",
+                      "displayName": "Image",
+                      "iconSVG": "/static/media/icon.52d8fb963abcb95c79b10f1553389f22.svg",
+                      "topRow": 2,
+                      "bottomRow": 13,
+                      "parentRowSpace": 10,
+                      "type": "IMAGE_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 19.8125,
+                      "dynamicTriggerPathList": [],
+                      "imageShape": "RECTANGLE",
+                      "leftColumn": 44,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "defaultImage": "https://s3.us-east-2.amazonaws.com/template.appsmith.com/waves-graph.png\n",
+                      "key": "g76ztn8fne",
+                      "image": "",
+                      "isDeprecated": false,
+                      "rightColumn": 63,
+                      "objectFit": "cover",
+                      "widgetId": "eysrwkqcpa",
+                      "isVisible": true,
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "maxZoomLevel": 1,
+                      "enableDownload": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "enableRotation": false
+                    },
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "ButtonGroup1",
+                      "isCanvas": false,
+                      "displayName": "Button Group",
+                      "iconSVG": "/static/media/icon.d6773218cfb61dcfa5f460d43371e30d.svg",
+                      "searchTags": [
+                        "click",
+                        "submit"
+                      ],
+                      "topRow": 13,
+                      "bottomRow": 19,
+                      "parentRowSpace": 10,
+                      "groupButtons": {
+                        "groupButton1": {
+                          "label": "系统数据监控",
+                          "iconName": "chart",
+                          "id": "groupButton1",
+                          "widgetId": "",
+                          "buttonType": "SIMPLE",
+                          "placement": "CENTER",
+                          "isVisible": true,
+                          "isDisabled": false,
+                          "index": 0,
+                          "menuItems": {},
+                          "buttonColor": "#3b82f6",
+                          "onClick": "{{navigateTo('系统数据监控', {}, 'SAME_WINDOW')}}"
+                        },
+                        "groupButton2": {
+                          "label": "数据采集处理",
+                          "iconName": "regression-chart",
+                          "id": "groupButton2",
+                          "buttonType": "SIMPLE",
+                          "placement": "CENTER",
+                          "widgetId": "",
+                          "isVisible": true,
+                          "isDisabled": false,
+                          "index": 1,
+                          "menuItems": {},
+                          "buttonColor": "#3b82f6",
+                          "onClick": "{{navigateTo('数据采集处理', {}, 'SAME_WINDOW')}}"
+                        },
+                        "groupButtonyk4ks2ml76": {
+                          "id": "groupButtonyk4ks2ml76",
+                          "index": 2,
+                          "label": "网络协同解构",
+                          "menuItems": {},
+                          "buttonType": "SIMPLE",
+                          "placement": "CENTER",
+                          "widgetId": "gokzf64euh",
+                          "isDisabled": false,
+                          "isVisible": true,
+                          "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                          "iconName": "heat-grid",
+                          "onClick": "{{navigateTo('网络协同解构', {}, 'SAME_WINDOW')}}"
+                        },
+                        "groupButtonnqm0jg0a7a": {
+                          "id": "groupButtonnqm0jg0a7a",
+                          "index": 3,
+                          "label": "网络组装预测",
+                          "menuItems": {},
+                          "buttonType": "SIMPLE",
+                          "placement": "CENTER",
+                          "widgetId": "n1aeomq3op",
+                          "isDisabled": false,
+                          "isVisible": true,
+                          "buttonColor": "#1d4ed8",
+                          "iconName": "git-branch",
+                          "onClick": "{{navigateTo('网络组装预测', {}, 'SAME_WINDOW')}}"
+                        }
+                      },
+                      "type": "BUTTON_GROUP_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 15.56640625,
+                      "dynamicTriggerPathList": [
+                        {
+                          "key": "groupButtons.groupButton1.onClick"
+                        },
+                        {
+                          "key": "groupButtons.groupButton2.onClick"
+                        },
+                        {
+                          "key": "groupButtons.groupButtonyk4ks2ml76.onClick"
+                        },
+                        {
+                          "key": "groupButtons.groupButtonnqm0jg0a7a.onClick"
+                        }
+                      ],
+                      "leftColumn": 2,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "borderRadius"
+                        },
+                        {
+                          "key": "childStylesheet.button.buttonColor"
+                        },
+                        {
+                          "key": "groupButtons.groupButtonyk4ks2ml76.buttonColor"
+                        }
+                      ],
+                      "key": "vqwwtq304h",
+                      "orientation": "horizontal",
+                      "isDeprecated": false,
+                      "rightColumn": 62,
+                      "widgetId": "f2ehctlzhz",
+                      "isVisible": true,
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "childStylesheet": {
+                        "button": {
+                          "buttonColor": "{{appsmith.theme.colors.primaryColor}}"
+                        }
+                      },
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "buttonVariant": "PRIMARY"
+                    },
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "MultiSelect1",
+                      "isFilterable": true,
+                      "allowSelectAll": true,
+                      "displayName": "MultiSelect",
+                      "iconSVG": "/static/media/icon.a3495809ae48291a64404f3bb04b0e69.svg",
+                      "labelText": "工期预测神经环路选择(Neural Circuit Select)",
+                      "searchTags": [
+                        "dropdown",
+                        "tags"
+                      ],
+                      "topRow": 19,
+                      "bottomRow": 23,
+                      "parentRowSpace": 10,
+                      "labelWidth": "14",
+                      "type": "MULTI_SELECT_WIDGET_V2",
+                      "serverSideFiltering": false,
+                      "hideCard": false,
+                      "shouldScrollContents": true,
+                      "defaultOptionValue": "{{ ((options, serverSideFiltering) => ( `[\n  \"NC22.03\",\n  \"NC22.17\",\n\t\"NC22.29\",\n\t\"NC22.36\",\n\t\"NC22.48\",\n\t\"NC22.45\",\n\t\"NC22.74\",\n\t\"NC22.77\",\n\t\"NC22.91\",\n\t\"NC22.97\"\n]`))(MultiSelect1.options, MultiSelect1.serverSideFiltering) }}",
+                      "animateLoading": true,
+                      "parentColumnSpace": 16.9375,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 2,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "defaultOptionValue"
+                        }
+                      ],
+                      "labelPosition": "Top",
+                      "options": "[\n  {\n    \"label\": \"NC22.03\",\n    \"value\": \"NC22.03\"\n  },\n  {\n    \"label\": \"NC22.17\",\n    \"value\": \"NC22.17\"\n  },\n  {\n    \"label\": \"NC22.29\",\n    \"value\": \"NC22.29\"\n  },\n  {\n    \"label\": \"NC22.36\",\n    \"value\": \"NC22.36\"\n  },\n\t{\n    \"label\": \"NC22.45\",\n    \"value\": \"NC22.45\"\n  },\n\t{\n    \"label\": \"NC22.48\",\n    \"value\": \"NC22.48\"\n  },\n  {\n    \"label\": \"NC22.74\",\n    \"value\": \"NC22.74\"\n  },\n\t{\n    \"label\": \"NC22.77\",\n    \"value\": \"NC22.77\"\n  },\n  {\n    \"label\": \"NC22.91\",\n    \"value\": \"NC22.91\"\n  },\n  {\n    \"label\": \"NC22.97\",\n    \"value\": \"NC22.97\"\n  }\n]",
+                      "labelTextColor": "#fafafa",
+                      "placeholderText": "选择预测网络组装环路",
+                      "isDisabled": false,
+                      "key": "i8l0fg7j8m",
+                      "labelTextSize": "1.25rem",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 62,
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "9aqm6ka77c",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "labelAlignment": "left",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "0.375rem",
+                      "maxDynamicHeight": 9000,
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "resetFormOnClick": false,
+                      "boxShadow": "none",
+                      "widgetName": "Button1",
+                      "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "displayName": "Button",
+                      "iconSVG": "/static/media/icon.cca026338f1c8eb6df8ba03d084c2fca.svg",
+                      "searchTags": [
+                        "click",
+                        "submit"
+                      ],
+                      "topRow": 32,
+                      "bottomRow": 36,
+                      "parentRowSpace": 10,
+                      "type": "BUTTON_WIDGET",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 16.9375,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 55,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "buttonColor"
+                        },
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "text": "确认",
+                      "isDisabled": false,
+                      "key": "kpf76b3qsm",
+                      "isDeprecated": false,
+                      "rightColumn": 62,
+                      "isDefaultClickDisabled": true,
+                      "widgetId": "v62o4y9xi3",
+                      "isVisible": true,
+                      "recaptchaType": "V3",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "disabledWhenInvalid": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "buttonVariant": "PRIMARY",
+                      "iconAlign": "left",
+                      "placement": "CENTER"
+                    },
+                    {
+                      "boxShadow": "none",
+                      "widgetName": "Input1",
+                      "displayName": "Input",
+                      "iconSVG": "/static/media/icon.9f505595da61a34f563dba82adeb06ec.svg",
+                      "searchTags": [
+                        "form",
+                        "text input",
+                        "number",
+                        "textarea"
+                      ],
+                      "topRow": 27,
+                      "bottomRow": 31,
+                      "parentRowSpace": 10,
+                      "labelWidth": 5,
+                      "autoFocus": false,
+                      "type": "INPUT_WIDGET_V2",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 15.56640625,
+                      "dynamicTriggerPathList": [],
+                      "resetOnSubmit": true,
+                      "leftColumn": 2,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "labelPosition": "Top",
+                      "labelStyle": "",
+                      "labelTextColor": "#e0dede",
+                      "inputType": "TEXT",
+                      "isDisabled": false,
+                      "key": "g34vc2guwt",
+                      "labelTextSize": "0.875rem",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 62,
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "i95p5rahe0",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "label": "",
+                      "version": 2,
+                      "parentId": "eovb6uxlcp",
+                      "labelAlignment": "left",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "maxDynamicHeight": 9000,
+                      "iconAlign": "left",
+                      "defaultText": "请输入报表导出目录",
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "widgetName": "Checkbox1",
+                      "displayName": "Checkbox",
+                      "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
+                      "searchTags": [
+                        "boolean"
+                      ],
+                      "topRow": 32,
+                      "bottomRow": 36,
+                      "parentRowSpace": 10,
+                      "type": "CHECKBOX_WIDGET",
+                      "alignWidget": "LEFT",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 16.9375,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 36,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "labelPosition": "Left",
+                      "labelTextColor": "#fafafa",
+                      "isDisabled": false,
+                      "key": "g5dbe07qs7",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 46,
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "4nshfp65bz",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "label": "导出工期预测报表",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "defaultCheckedState": true,
+                      "maxDynamicHeight": 9000,
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "widgetName": "Checkbox2",
+                      "displayName": "Checkbox",
+                      "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
+                      "searchTags": [
+                        "boolean"
+                      ],
+                      "topRow": 32,
+                      "bottomRow": 36,
+                      "parentRowSpace": 10,
+                      "type": "CHECKBOX_WIDGET",
+                      "alignWidget": "LEFT",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 15.56640625,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 26,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "labelPosition": "Left",
+                      "labelTextColor": "#fafafa",
+                      "isDisabled": false,
+                      "key": "g5dbe07qs7",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 34,
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "bhrsjgqlzk",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "label": "生成推荐方案",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "defaultCheckedState": true,
+                      "maxDynamicHeight": 9000,
+                      "minDynamicHeight": 4
+                    },
+                    {
+                      "widgetName": "Checkbox3",
+                      "displayName": "Checkbox",
+                      "iconSVG": "/static/media/icon.aaab032b43383e4fa53ffc0ef40c90ef.svg",
+                      "searchTags": [
+                        "boolean"
+                      ],
+                      "topRow": 32,
+                      "bottomRow": 36,
+                      "parentRowSpace": 10,
+                      "type": "CHECKBOX_WIDGET",
+                      "alignWidget": "LEFT",
+                      "hideCard": false,
+                      "animateLoading": true,
+                      "parentColumnSpace": 15.56640625,
+                      "dynamicTriggerPathList": [],
+                      "leftColumn": 14,
+                      "dynamicBindingPathList": [
+                        {
+                          "key": "accentColor"
+                        },
+                        {
+                          "key": "borderRadius"
+                        }
+                      ],
+                      "labelPosition": "Left",
+                      "labelTextColor": "#fafafa",
+                      "isDisabled": false,
+                      "key": "g5dbe07qs7",
+                      "isRequired": false,
+                      "isDeprecated": false,
+                      "rightColumn": 24,
+                      "dynamicHeight": "FIXED",
+                      "widgetId": "07wb85vja3",
+                      "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                      "isVisible": true,
+                      "label": "显示各环路适应性",
+                      "version": 1,
+                      "parentId": "eovb6uxlcp",
+                      "renderMode": "CANVAS",
+                      "isLoading": false,
+                      "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                      "defaultCheckedState": true,
+                      "maxDynamicHeight": 9000,
+                      "minDynamicHeight": 4
+                    }
+                  ],
+                  "key": "1lq17xmg8s",
+                  "isDeprecated": false,
+                  "rightColumn": 427.5,
+                  "detachFromLayout": true,
+                  "widgetId": "eovb6uxlcp",
+                  "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "containerStyle": "none",
+                  "isVisible": true,
+                  "version": 1,
+                  "parentId": "ple4f7judv",
+                  "renderMode": "CANVAS",
+                  "isLoading": false,
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+                }
+              ],
+              "borderWidth": "1",
+              "key": "1ogjwx3uen",
+              "backgroundColor": "#000D3D",
+              "isDeprecated": false,
+              "rightColumn": 62,
+              "dynamicHeight": "FIXED",
+              "widgetId": "ple4f7judv",
+              "containerStyle": "card",
+              "isVisible": true,
+              "version": 1,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "maxDynamicHeight": 9000,
+              "minDynamicHeight": 4
+            },
+            {
+              "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
+              "borderColor": "#E0DEDE",
+              "isVisibleDownload": false,
+              "iconSVG": "/static/media/icon.db8a9cbd2acd22a31ea91cc37ea2a46c.svg",
+              "topRow": 81,
+              "isSortable": false,
+              "type": "TABLE_WIDGET_V2",
+              "inlineEditingSaveOption": "ROW_LEVEL",
+              "animateLoading": true,
+              "dynamicBindingPathList": [
+                {
+                  "key": "accentColor"
+                },
+                {
+                  "key": "borderRadius"
+                },
+                {
+                  "key": "boxShadow"
+                },
+                {
+                  "key": "childStylesheet.button.buttonColor"
+                },
+                {
+                  "key": "childStylesheet.button.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.menuButton.menuColor"
+                },
+                {
+                  "key": "childStylesheet.menuButton.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.iconButton.buttonColor"
+                },
+                {
+                  "key": "childStylesheet.iconButton.borderRadius"
+                },
+                {
+                  "key": "childStylesheet.editActions.saveButtonColor"
+                },
+                {
+                  "key": "childStylesheet.editActions.saveBorderRadius"
+                },
+                {
+                  "key": "childStylesheet.editActions.discardButtonColor"
+                },
+                {
+                  "key": "childStylesheet.editActions.discardBorderRadius"
+                },
+                {
+                  "key": "primaryColumns.xn__rpr79v.computedValue"
+                },
+                {
+                  "key": "primaryColumns.xn__exty8as60bjlf9qh2pyhkd.computedValue"
+                }
+              ],
+              "leftColumn": 49,
+              "delimiter": ",",
+              "defaultSelectedRowIndex": 0,
+              "accentColor": "{{appsmith.theme.colors.primaryColor}}",
+              "isVisibleFilters": false,
+              "isVisible": true,
+              "fontStyle": "",
+              "enableClientSideSearch": true,
+              "version": 1,
+              "totalRecordsCount": 0,
+              "isLoading": false,
+              "childStylesheet": {
+                "button": {
+                  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "menuButton": {
+                  "menuColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "iconButton": {
+                  "buttonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "boxShadow": "none"
+                },
+                "editActions": {
+                  "saveButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "saveBorderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+                  "discardButtonColor": "{{appsmith.theme.colors.primaryColor}}",
+                  "discardBorderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}"
+                }
+              },
+              "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
+              "primaryColumnId": "step",
+              "defaultSelectedRowIndices": [
+                0
+              ],
+              "widgetName": "Table1",
+              "defaultPageSize": 0,
+              "columnOrder": [
+                "xn__rpr79v",
+                "xn__exty8as60bjlf9qh2pyhkd"
+              ],
+              "dynamicPropertyPathList": [],
+              "compactMode": "SHORT",
+              "displayName": "Table",
+              "bottomRow": 116,
+              "columnWidthMap": {
+                "task": 245,
+                "step": 84,
+                "status": 75,
+                "xn__rpr79v": 124
+              },
+              "parentRowSpace": 10,
+              "hideCard": false,
+              "parentColumnSpace": 16.9375,
+              "dynamicTriggerPathList": [],
+              "borderWidth": "1",
+              "primaryColumns": {
+                "xn__rpr79v": {
+                  "allowCellWrapping": false,
+                  "index": 2,
+                  "width": 150,
+                  "originalId": "序号",
+                  "id": "xn__rpr79v",
+                  "alias": "序号",
+                  "horizontalAlignment": "LEFT",
+                  "verticalAlignment": "CENTER",
+                  "columnType": "text",
+                  "textSize": "0.875rem",
+                  "fontStyle": "",
+                  "enableFilter": true,
+                  "enableSort": true,
+                  "isVisible": true,
+                  "isDisabled": false,
+                  "isCellEditable": false,
+                  "isEditable": false,
+                  "isCellVisible": true,
+                  "isDerived": false,
+                  "label": "序号",
+                  "isSaveVisible": true,
+                  "isDiscardVisible": true,
+                  "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"序号\"]))}}",
+                  "validation": {}
+                },
+                "xn__exty8as60bjlf9qh2pyhkd": {
+                  "allowCellWrapping": false,
+                  "index": 3,
+                  "width": 150,
+                  "originalId": "神经环路适应性",
+                  "id": "xn__exty8as60bjlf9qh2pyhkd",
+                  "alias": "神经环路适应性",
+                  "horizontalAlignment": "LEFT",
+                  "verticalAlignment": "CENTER",
+                  "columnType": "text",
+                  "textSize": "0.875rem",
+                  "fontStyle": "",
+                  "enableFilter": true,
+                  "enableSort": true,
+                  "isVisible": true,
+                  "isDisabled": false,
+                  "isCellEditable": false,
+                  "isEditable": false,
+                  "isCellVisible": true,
+                  "isDerived": false,
+                  "label": "神经环路适应性",
+                  "isSaveVisible": true,
+                  "isDiscardVisible": true,
+                  "computedValue": "{{Table1.processedTableData.map((currentRow, currentIndex) => ( currentRow[\"神经环路适应性\"]))}}",
+                  "validation": {}
+                }
+              },
+              "key": "0x68sn7u00",
+              "isDeprecated": false,
+              "rightColumn": 62,
+              "textSize": "0.875rem",
+              "widgetId": "t4c0eyqqxt",
+              "tableData": "[\n  {\n    \"序号\": \"NC22.03\",\n    \"神经环路适应性\": \"0.5433\"\n  },\n  {\n    \"序号\": \"NC22.17\",\n    \"神经环路适应性\": \"0.5886\"\n  },\n  {\n    \"序号\": \"NC22.29\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.29\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.36\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.45\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.48\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.74\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.77\",\n    \"神经环路适应性\": \"0.7864\"\n  },\n  {\n    \"序号\": \"NC22.91\",\n    \"神经环路适应性\": \"0.7864\"\n  }\n]",
+              "label": "Data",
+              "searchKey": "",
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "horizontalAlignment": "LEFT",
+              "isVisibleSearch": false,
+              "isVisiblePagination": false,
+              "verticalAlignment": "CENTER"
+            }
+          ]
+        },
+        "layoutOnLoadActions": [],
+        "layoutOnLoadActionErrors": [],
+        "validOnPageLoadActions": true,
+        "id": "网络组装预测",
+        "deleted": false,
+        "policies": [],
+        "userPermissions": []
+      }
+    ],
+    "userPermissions": [],
+    "policies": [],
+    "isHidden": false
+  },
+  "deleted": false,
+  "gitSyncId": "638cc2a03b14013e8f509af4_638d81c83b14013e8f50a7d2"
+}
